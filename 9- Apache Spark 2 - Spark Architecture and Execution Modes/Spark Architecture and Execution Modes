@@ -1,0 +1,4 @@
+-Apache Spark is a fast and general-purpose cluster computing system
+-Pyspark is a high-level Python API for Spark
+
+-SparkContext: Main entry point for Spark functionality
